@@ -1,0 +1,1 @@
+https://github.com/graphite-project/carbon/blob/master/conf/carbon.conf.example
